@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4d7c90bf5fe1ae5209cef281f77f5c0c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - texturaMaoFechada: {fileID: 21300000, guid: cab4fe9af6717f10c91896dabbd647e8, type: 3}
+  - texturaMaoAberta: {fileID: 21300000, guid: 88533b1f913e05972819a1f3116f86de, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

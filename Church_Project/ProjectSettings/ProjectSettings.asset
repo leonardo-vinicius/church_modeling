@@ -752,11 +752,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 9d2aa5da-5344-49de-816a-ad61b648d2c0
+  cloudProjectId: 10ccc7c1-4061-4b1d-a08e-8415b4542944
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Church_Project
-  organizationId: leonardo-vinicius77
+  organizationId: george_brandao
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
