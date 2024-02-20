@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class MoverObjetosVersaoFree : MonoBehaviour
+public class MoverObjetos : MonoBehaviour
 {
     public string _tagObjects = "Movel";
     public float forcaDeArremeco = 100;
