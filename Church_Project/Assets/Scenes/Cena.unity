@@ -20525,9 +20525,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _tagObjects: Movel
-  forcaDeArremeco: 100
-  texturaMaoFechada: {fileID: 21300000, guid: cab4fe9af6717f10c91896dabbd647e8, type: 3}
-  texturaMaoAberta: {fileID: 21300000, guid: 88533b1f913e05972819a1f3116f86de, type: 3}
+  forcaDeArremeco: 5
+  texturaMaoFechada: {fileID: 21300000, guid: d55f2ca29365a224e9e14da2191d654b, type: 3}
+  texturaMaoAberta: {fileID: 21300000, guid: 2942aa7273e268f4f89867ca67d78d8e, type: 3}
 --- !u!1 &906534785
 GameObject:
   m_ObjectHideFlags: 0
