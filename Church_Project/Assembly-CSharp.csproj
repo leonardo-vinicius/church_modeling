@@ -64,7 +64,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\TriggerDoorController.cs" />
-    <Compile Include="Assets\Scripts\Interruptor.cs" />
     <Compile Include="Assets\Scripts\Interruptor_2.cs" />
     <Compile Include="Assets\Scripts\MoverObjetos.cs" />
     <Compile Include="Assets\Scripts\FPSController.cs" />
